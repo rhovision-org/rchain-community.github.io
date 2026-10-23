@@ -1,6 +1,6 @@
 # Rholang 🥳
 
-This is the repository of the website [https://rchain-community.github.io/](https://rchain-community.github.io/).
+This is the repository of the website [https://rhovision-org.github.io/](https://rhovision-org.github.io/).
 
 # Pre-requisites
 
@@ -12,7 +12,7 @@ This is the repository of the website [https://rchain-community.github.io/](http
 
 # Quick install
 
-- fork this repository and open with vscode (cd into /rchain-community.github.io/)
+- fork this repository and open with vscode (cd into /rhovision-org.github.io/)
 - \$ yarn install
 - \$ yarn develop
   - website is locally available

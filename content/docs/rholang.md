@@ -14,7 +14,7 @@ Rholang is completely asynchronous, in the sense that while you can read a messa
 
 ## Rchain Cloud
 
-Evaluate Rholang code in the cloud and test your dapp [Rchain Cloud](https://rchain-community.github.io/rgov/).
+Evaluate Rholang code in the cloud and test your dapp [Rchain Cloud](https://rhovision-org.github.io/rgov/).
 ## VSCode Plugin
 
 This is the Visual Studio Code extension for the Rholang programming language. It has support for syntax highlighting and code evaluation with error highlighting.
@@ -36,7 +36,7 @@ the following chapter provides you with the information for setting up REPL with
 ##### 1.1 Setting up docker
 
 - after installing docker for windows -> start Docker Desktop -> on the right bottom there is a small icon, if docker has started
-- download genesis folder from [genesis folder](https://github.com/rchain-community/rchain-docker-shard/tree/master/genesis)
+- download genesis folder from [genesis folder](https://github.com/rhovision-org/rchain-docker-shard/tree/master/genesis)
 - create a folder (e.g on desktop -> C:/Users/Nakamoto/Rnode/)
 - copy genesis folder from download (unzip) into rnode folder (e.g C:/Users/Nakamoto/Rnode/genesis)
 - open command line
