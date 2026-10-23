@@ -53,7 +53,7 @@
               >Core Repository</a
             >
             <a
-              href="https://github.com/rchain-community"
+              href="https://github.com/rhovision-org"
               rel="noopener noreferrer"
               target="_blank"
               >Rchain Community</a
@@ -71,7 +71,7 @@
               >Rchain Toolkit</a
             >
             <a
-              href="https://github.com/rchain-community/rchain-wallet"
+              href="https://github.com/rhovision-org/rchain-wallet"
               rel="noopener noreferrer"
               target="_blank"
               >RchainWallet</a
@@ -90,7 +90,7 @@
             >
 
             <a
-              href="https://github.com/rchain-community/rchain-community.github.io"
+              href="https://github.com/rhovision-org/rchain-community.github.io"
               rel="noopener noreferrer"
               target="_blank"
               >Rholang Website</a

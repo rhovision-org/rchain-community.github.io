@@ -66,7 +66,7 @@ export default {
       return path;
     },
     getBaseUrl() {
-      return 'https://rchain-community.github.io';
+      return 'https://rhovision-org.github.io';
     },
   },
   metaInfo() {
